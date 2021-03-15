@@ -50,22 +50,34 @@ rel="external" {
   background-color: #2694d8;
 }
 
-.first {
+ol li:first-child {
   color: #719e47;
 }
 
-.last {
+ol li:last-child {
   color: #2aa198;
 }
 
-.odd {
+ul li:nth-child(odd){
   background-color: #657ba3;
 }
 
-.even {
+ul li:nth-child(even) {
   background-color: #586e75;
 }
 
-.third {
+ul li:nth-child(3) {
+  background-color: #d04b16;
+}
+
+ul li:nth-child(6) {
+  background-color: #d04b16;
+}
+
+ul li:nth-child(9) {
+  background-color: #d04b16;
+}
+
+ul li:nth-child(12) {
   background-color: #d04b16;
 }
