@@ -10,7 +10,7 @@ body {
   background-color: #fdf6e3;
 }
 
-h1, footer {
+header, footer {
   font-size: 1.5rem;
 }
 
@@ -58,26 +58,26 @@ ol li:last-child {
   color: #2aa198;
 }
 
-ul li:nth-child(odd) {
+main ul li:nth-child(odd) {
   background-color: #657ba3;
 }
 
-ul li:nth-child(even) {
+main ul li:nth-child(even) {
   background-color: #586e75;
 }
 
-ul li:nth-child(3) {
+main ul li:nth-child(3) {
   background-color: #d04b16;
 }
 
-ul li:nth-child(6) {
+main ul li:nth-child(6) {
   background-color: #d04b16;
 }
 
-ul li:nth-child(9) {
+main ul li:nth-child(9) {
   background-color: #d04b16;
 }
 
-ul li:nth-child(12) {
+main ul li:nth-child(12) {
   background-color: #d04b16;
 }
