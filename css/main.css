@@ -39,14 +39,14 @@ strong + .dfn {
 }
 
 a {
-background-color: #719e07;
+  background-color: #719e07;
 }
 
 li > ol {
   color: #719e07;
 }
 
-rel="external" {
+[href^="http://en.wikipedia.org/wiki/Fruit"] {
   background-color: #2694d8;
 }
 
@@ -58,7 +58,7 @@ ol li:last-child {
   color: #2aa198;
 }
 
-ul li:nth-child(odd){
+ul li:nth-child(odd) {
   background-color: #657ba3;
 }
 
