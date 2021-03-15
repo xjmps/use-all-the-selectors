@@ -50,22 +50,22 @@ rel="external" {
   background-color: #2694d8;
 }
 
-first li > ol {
+.first {
   color: #719e47;
 }
 
-li > ol {
+.last {
   color: #2aa198;
 }
 
-odd li > .types {
+.odd {
   background-color: #657ba3;
 }
 
-even li > .types {
+.even {
   background-color: #586e75;
 }
 
-3rd li > .types {
+.third {
   background-color: #d04b16;
 }
